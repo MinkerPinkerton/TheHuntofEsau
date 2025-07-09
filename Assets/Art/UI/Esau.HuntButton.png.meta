@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: faa6c422477c5c64eafe2a839bd83ca2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8455005281829527119
+    second: Esau.HuntButton_0
+  - first:
+      213: 4839280008102121153
+    second: Esau.HuntButton_1
+  - first:
+      213: 1768872292777864814
+    second: Esau.HuntButton_2
+  - first:
+      213: 1308976267835525785
+    second: Esau.HuntButton_3
+  - first:
+      213: -423187055715522389
+    second: Esau.HuntButton_4
+  - first:
+      213: -3067522483754437346
+    second: Esau.HuntButton_5
+  - first:
+      213: 4812016938495006182
+    second: Esau.HuntButton_6
+  - first:
+      213: -695166000354458666
+    second: Esau.HuntButton_7
+  - first:
+      213: 7680990834879404030
+    second: Esau.HuntButton_8
+  - first:
+      213: -5026987658141700809
+    second: Esau.HuntButton_9
+  - first:
+      213: -7869630069668293117
+    second: Esau.HuntButton_10
+  - first:
+      213: 2929636650993851898
+    second: Esau.HuntButton_11
+  - first:
+      213: -5435005748990025858
+    second: Esau.HuntButton_12
+  - first:
+      213: -7188120234745590030
+    second: Esau.HuntButton_13
+  - first:
+      213: 3377585272070004129
+    second: Esau.HuntButton_14
+  - first:
+      213: -8177727674945068431
+    second: Esau.HuntButton_15
+  - first:
+      213: -1897233001748584874
+    second: Esau.HuntButton_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 38, y: 482, z: 36, w: 196}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Esau.HuntButton_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 914
+        width: 943
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e108dd186365570800000000000000
+      internalID: 8455005281829527119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 904
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce839b1783982340800000000000000
+      internalID: 4839280008102121153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 892
+        width: 935
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e2e087afb4c8810800000000000000
+      internalID: 1768872292777864814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 895
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ac0c7fafa6a2210800000000000000
+      internalID: 1308976267835525785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 894
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8688e6d99802af0800000000000000
+      internalID: -423187055715522389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 886
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15fa4fad88fd65d0800000000000000
+      internalID: -3067522483754437346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 888
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5582019e7b7c240800000000000000
+      internalID: 4812016938495006182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 1080
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d381f0b4364a56f0800000000000000
+      internalID: -695166000354458666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 887
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7940cf77c589a60800000000000000
+      internalID: 7680990834879404030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_9
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 727
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73de03aeb5d8c3ab0800000000000000
+      internalID: -5026987658141700809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_10
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 654
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30650bf852579c290800000000000000
+      internalID: -7869630069668293117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_11
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 623
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd147f130928a820800000000000000
+      internalID: 2929636650993851898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_12
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 605
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f5e33311bf294b0800000000000000
+      internalID: -5435005748990025858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 471
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe01351bbaae3c90800000000000000
+      internalID: -7188120234745590030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 474
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1add254e8e79fde20800000000000000
+      internalID: 3377585272070004129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172a401d100e28e80800000000000000
+      internalID: -8177727674945068431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.HuntButton_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 452
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656a0aa03acaba5e0800000000000000
+      internalID: -1897233001748584874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Esau.HuntButton_0: 8455005281829527119
+      Esau.HuntButton_1: 4839280008102121153
+      Esau.HuntButton_10: -7869630069668293117
+      Esau.HuntButton_11: 2929636650993851898
+      Esau.HuntButton_12: -5435005748990025858
+      Esau.HuntButton_13: -7188120234745590030
+      Esau.HuntButton_14: 3377585272070004129
+      Esau.HuntButton_15: -8177727674945068431
+      Esau.HuntButton_16: -1897233001748584874
+      Esau.HuntButton_2: 1768872292777864814
+      Esau.HuntButton_3: 1308976267835525785
+      Esau.HuntButton_4: -423187055715522389
+      Esau.HuntButton_5: -3067522483754437346
+      Esau.HuntButton_6: 4812016938495006182
+      Esau.HuntButton_7: -695166000354458666
+      Esau.HuntButton_8: 7680990834879404030
+      Esau.HuntButton_9: -5026987658141700809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

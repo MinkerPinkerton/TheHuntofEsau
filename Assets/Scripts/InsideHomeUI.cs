@@ -1,0 +1,68 @@
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+
+public class InsideHomeUI : MonoBehaviour
+{
+
+
+    private GraphicRaycaster raycaster; // UI Raycaster
+    private PointerEventData pointerEventData; // Mouse click
+    private EventSystem eventSystem; // Event System on UI
+
+    public PlayerData playerData;
+
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        raycaster = GetComponent<GraphicRaycaster>();
+        eventSystem = EventSystem.current;
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            pointerEventData = new PointerEventData(eventSystem);
+            pointerEventData.position = Input.mousePosition;
+
+            List<RaycastResult> results = new List<RaycastResult>();
+            raycaster.Raycast(pointerEventData, results);
+
+            if (results.Count > 0)
+            {
+                foreach (RaycastResult result in results)
+                {
+                    Debug.Log("UI Clicked: " + result.gameObject.name);
+
+
+                    if (result.gameObject.name == "BedroomDoor")
+                    {
+                        SceneManager.LoadScene("InsideBedroomScene");
+                    }
+
+                    if (result.gameObject.name == "MeatCooker")
+                    {
+                        //Open cooking menu
+
+                    }
+
+                    if (result.gameObject.name == "Table")
+                    {
+                        //Open dialogue with Rebekah
+                    }
+
+                    
+                }
+
+            }
+
+        }
+    }
+}
+

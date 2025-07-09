@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 6f04768dd6ded724cb9636e6323481bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1851488782681253715
+    second: Esau.NewHuntButtob_0
+  - first:
+      213: 8205152048925262662
+    second: Esau.NewHuntButtob_1
+  - first:
+      213: 1348427136524024732
+    second: Esau.NewHuntButtob_2
+  - first:
+      213: 3147509309790351388
+    second: Esau.NewHuntButtob_3
+  - first:
+      213: -2530631001490728356
+    second: Esau.NewHuntButtob_4
+  - first:
+      213: 2342001628663547358
+    second: Esau.NewHuntButtob_5
+  - first:
+      213: -2217674806737978780
+    second: Esau.NewHuntButtob_6
+  - first:
+      213: -8570578658352335402
+    second: Esau.NewHuntButtob_7
+  - first:
+      213: -8032387085934396041
+    second: Esau.NewHuntButtob_8
+  - first:
+      213: 8840234176812368177
+    second: Esau.NewHuntButtob_9
+  - first:
+      213: -4762667654114462867
+    second: Esau.NewHuntButtob_10
+  - first:
+      213: -6814854000619060428
+    second: Esau.NewHuntButtob_11
+  - first:
+      213: 4184027956344593408
+    second: Esau.NewHuntButtob_12
+  - first:
+      213: -4590072686954192953
+    second: Esau.NewHuntButtob_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5070886, y: 0.6417685}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 464, z: 0, w: 187}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 1080
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8d9a203c03e46e0800000000000000
+      internalID: -1851488782681253715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 963
+        width: 17
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6434244d05e8ed170800000000000000
+      internalID: 8205152048925262662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 912
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bf20e165396b210800000000000000
+      internalID: 1348427136524024732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 908
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10f9418a033eab20800000000000000
+      internalID: 3147509309790351388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 1078
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5add82138461ecd0800000000000000
+      internalID: -2530631001490728356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 895
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed580e3a216708020800000000000000
+      internalID: 2342001628663547358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 894
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46abc05538c3931e0800000000000000
+      internalID: -2217674806737978780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 886
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d57d5d7e103f0980800000000000000
+      internalID: -8570578658352335402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 888
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df174b08a378090800000000000000
+      internalID: -8032387085934396041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 887
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1314b207522deaa70800000000000000
+      internalID: 8840234176812368177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 471
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63b345900b97edb0800000000000000
+      internalID: -4762667654114462867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 474
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43383f0a466cc61a0800000000000000
+      internalID: -6814854000619060428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c19342247a01a30800000000000000
+      internalID: 4184027956344593408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esau.NewHuntButtob_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 452
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf5fd0e539cc40c0800000000000000
+      internalID: -4590072686954192953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Esau.NewHuntButtob_0: -1851488782681253715
+      Esau.NewHuntButtob_1: 8205152048925262662
+      Esau.NewHuntButtob_10: -4762667654114462867
+      Esau.NewHuntButtob_11: -6814854000619060428
+      Esau.NewHuntButtob_12: 4184027956344593408
+      Esau.NewHuntButtob_13: -4590072686954192953
+      Esau.NewHuntButtob_2: 1348427136524024732
+      Esau.NewHuntButtob_3: 3147509309790351388
+      Esau.NewHuntButtob_4: -2530631001490728356
+      Esau.NewHuntButtob_5: 2342001628663547358
+      Esau.NewHuntButtob_6: -2217674806737978780
+      Esau.NewHuntButtob_7: -8570578658352335402
+      Esau.NewHuntButtob_8: -8032387085934396041
+      Esau.NewHuntButtob_9: 8840234176812368177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

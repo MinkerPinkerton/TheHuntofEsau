@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c48d834d219e3f34a94738481cdd5af5, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  playerName: Esau
+  maxHealth: 20
+  currentHealth: 8
+  minHealth: 0
+  maxMana: 10
+  currentMana: 0
+  minMana: 0
+  attackBasicDamage: 5
+  hitChance: 0.8
+  experience: 20
+  meat: 0
+  timeTokenCurrent: 3
+  timeTokenBaseline: 0
+  timeTokenMaximum: 15
+  timeDayTokenCurrent: 0
+  timeDayTokenBaseline: 0
+  timeDayTokenMaximum: 10
+  swordInStoneQuest: 0
+  equippedSpear: 0
